@@ -3,6 +3,7 @@ cy666666666
 ## Project setup
 ```
 npm install
+cy666666666
 ```
 
 ### Compiles and hot-reloads for development
